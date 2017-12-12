@@ -5,5 +5,5 @@
     $scope.firstName = "Shail";
     $scope.lastName = "Bhatt";
 
-    $scope.designation = "Full Stack Developer";
+    $scope.designation = "Java Developer";
     });
